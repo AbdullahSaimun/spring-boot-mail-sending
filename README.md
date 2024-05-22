@@ -5,12 +5,12 @@ This project is a simple Spring Boot application that sends a daily email report
 ## Features
 
 - Sends a simple email with a daily report.
-- Configurable SMTP settings via `application.yml`.
+- Configurable SMTP settings via `application.yml` or `application.properties`.
 - Easy to extend for additional functionalities.
 
 ## Prerequisites
 
-- Java 22 or higher
+- Java 17 or higher
 - Maven
 - An SMTP email account for sending emails
 
@@ -19,5 +19,4 @@ This project is a simple Spring Boot application that sends a daily email report
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/spring-boot-email-sending.git
-cd spring-boot-email-sending
+git clone https://github.com/AbdullahSaimun/spring-boot-mail-sending.git

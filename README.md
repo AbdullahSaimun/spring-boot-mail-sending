@@ -20,3 +20,16 @@ This project is a simple Spring Boot application that sends a daily email report
 
 ```bash
 git clone https://github.com/AbdullahSaimun/spring-boot-mail-sending.git
+```
+
+### 2. Go to project folder
+```bash
+cd spring-boot-email-sending
+```
+
+### 3. Run Project
+```bash
+./mvnw spring-boot:run
+```
+
+

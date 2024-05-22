@@ -5,7 +5,7 @@ This project is a simple Spring Boot application that sends a daily email report
 ## Features
 
 - Sends a simple email with a daily report.
-- Configurable SMTP settings via `application.properties`.
+- Configurable SMTP settings via `application.yml`.
 - Easy to extend for additional functionalities.
 
 ## Prerequisites
